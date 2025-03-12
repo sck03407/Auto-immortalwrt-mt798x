@@ -8,7 +8,7 @@
 # Description: Build iwrt using GitHub Actions
 #
 
-name: Build Firmware
+name: Build ax6000 Firmware
 
 on:
   workflow_dispatch:
